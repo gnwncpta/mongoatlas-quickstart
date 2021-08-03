@@ -1,0 +1,16 @@
+{
+  "name": "mongo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "connect": "node connect.js",
+    "insert": "node insert-data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.0.1"
+  }
+}
